@@ -10,5 +10,6 @@ This is a Memory game with HTML, CSS and JS.
 # Features
 > The number of cards on screen chages with difficulty. The cards are always different because the icons are pulled form an array.
 
+# Game Preview
 ![image](https://github.com/user-attachments/assets/2d73e0ca-843f-40c2-8a14-2cb801edf55a)
 
